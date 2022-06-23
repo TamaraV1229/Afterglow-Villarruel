@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 315 150" width="315" height="150">
+	<title>Logo</title>
+	<defs>
+		<image  width="700" height="300" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAArwAAAEsAQMAAAAb+vLeAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAxSURBVHic7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICnAWhMAAHPYTp6AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 58px;fill: #999999;font-weight: 500;font-family: "CormorantGaramond-Medium", "Cormorant Garamond" } 
+	</style>
+	<use id="Background" href="#img1" x="-194" y="-75"/>
+	<text id="Afterglow" style="transform: matrix(1,-0.003,.003,1,-90.13,46.621)" >
+		<tspan x="131.9" y="42" class="t0">A</tspan><tspan  y="42" class="t0">f</tspan><tspan  y="42" class="t0">t</tspan><tspan  y="42" class="t0">e</tspan><tspan  y="42" class="t0">r</tspan><tspan  y="42" class="t0">g</tspan><tspan  y="42" class="t0">l</tspan><tspan  y="42" class="t0">o</tspan><tspan  y="42" class="t0">w</tspan><tspan  y="42" class="t0">
+</tspan>
+	</text>
+</svg>
